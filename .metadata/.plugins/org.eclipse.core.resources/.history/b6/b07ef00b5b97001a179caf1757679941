@@ -1,0 +1,24 @@
+package testCases;
+
+
+
+import org.testng.Reporter;
+import org.testng.annotations.BeforeMethod;
+
+import testBase.TestBase;
+import testPages.HomePage;
+
+public class TC_HomePage_001 extends TestBase {
+	
+	HomePage hp ;
+
+	@BeforeMethod
+	public void setup() {
+		driver = TestBase.WebDriverInitialize();
+		hp = new HomePage(driver);
+		Reporter.log("Browser launched");
+		
+		
+		
+	}
+}

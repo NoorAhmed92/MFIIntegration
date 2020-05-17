@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;TestBase&apos; to &apos;testBase&apos;&#x0D;&#x0A;- Original project: &apos;MicroFocusIntegration_Demo&apos;&#x0D;&#x0A;- Original element: &apos;MicroFocusIntegration_Demo/src/test/java/TestBase&apos;&#x0D;&#x0A;- Renamed element: &apos;MicroFocusIntegration_Demo/src/test/java/testBase&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;TestBase&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java&lt;TestBase" name="testBase" qualified="false" references="true" stamp="1589619265157" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+url = https://www.google.com/maps
+username = remya61
+password = password123
+chromepath = ./Drivers\\chromedriver.exe
+firefoxpath = ./Drivers\\geckodriver.exe
+iepath =
+browserName = chrome
+excelpath = 

@@ -1,0 +1,6 @@
+testBase\TestBase.class
+testUtilities\ReadConfig.class
+testUtilities\Reporting.class
+testUtilities\ReadAPI.class
+testCases\TC_HomePage_001.class
+testPages\HomePage.class
